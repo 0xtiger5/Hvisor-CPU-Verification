@@ -5,8 +5,6 @@ edition = "2021"
 
 [dependencies]
 vstd = { git = "https://github.com/verus-lang/verus" }
-builtin = { git = "https://github.com/verus-lang/verus" }
-builtin_macros = { git = "https://github.com/verus-lang/verus" }
 
 [features]
 default = []
